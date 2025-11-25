@@ -47,7 +47,7 @@ This ETL pipeline pulls shopping cart & user data from:
 ```
 ecommerce_etl/
 │── dags/
-│     └── retail_sales_api_etl.py
+│     └── ecommerce_etl.py
 │
 │── scripts/
 │     ├── extract_api.py
@@ -146,7 +146,7 @@ transformed_carts.csv  →  MySQL (Load Task)
   ```
 
 ## 4️⃣ Airflow Orchestration
-DAG file: `dags/retail_sales_api_etl.py`
+DAG file: `dags/ecommerce_etl.py`
 
 Daily workflow:
 
@@ -374,7 +374,7 @@ sudo apt install libmysqlclient-dev -y
 ## 1️⃣2️⃣ Place ETL Scripts
 
 ```
-~/airflow/dags/retail_sales_api_etl.py
+~/airflow/dags/ecommerce_etl.py
 ~/ecommerce_etl/scripts/
 ~/ecommerce_etl/data/
 ```
@@ -423,5 +423,5 @@ Enable DAG in UI:
 ---
 
 # 👨‍💻 Author
-**Shivay Kumar**  
+**Vinay Kumar**  
 Built and tested on **Ubuntu (VMware)**.
