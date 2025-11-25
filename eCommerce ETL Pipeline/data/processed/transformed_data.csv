@@ -1,0 +1,199 @@
+cart_id,user_id,cart_total,cart_discounted_total,cart_total_products,cart_total_quantity,product_id,product_title,product_price,product_quantity,product_total,first_name,last_name,customer_name,email,city,age,gender,order_date,total_amount
+1,33,103774.85,89686.65,4,15,168,charger sxt rwd,32999.99,3,98999.97,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-23,98999.97
+1,33,103774.85,89686.65,4,15,78,apple macbook pro 14 inch space grey,1999.99,2,3999.98,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-23,3999.98
+1,33,103774.85,89686.65,4,15,183,green oval earring,24.99,5,124.94999999999999,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-23,124.94999999999999
+1,33,103774.85,89686.65,4,15,100,apple airpods,129.99,5,649.95,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-23,649.95
+2,142,4794.8,4288.95,5,20,144,cricket helmet,44.99,4,179.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,179.96
+2,142,4794.8,4288.95,5,20,124,iphone x,899.99,4,3599.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,3599.96
+2,142,4794.8,4288.95,5,20,148,golf ball,9.99,4,39.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,39.96
+2,142,4794.8,4288.95,5,20,122,iphone 6,299.99,3,899.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,899.97
+2,142,4794.8,4288.95,5,20,110,selfie lamp with iphone,14.99,5,74.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,74.95
+3,108,16775.87,14144.3,5,13,98,rolex submariner watch,13999.99,1,13999.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,13999.99
+3,108,16775.87,14144.3,5,13,125,oppo a57,249.99,5,1249.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,1249.95
+3,108,16775.87,14144.3,5,13,55,egg slicer,6.99,2,13.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,13.98
+3,108,16775.87,14144.3,5,13,62,ice cube tray,5.99,2,11.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,11.98
+3,108,16775.87,14144.3,5,13,132,samsung galaxy s8,499.99,3,1499.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,1499.97
+4,87,456.83,443.23,4,17,187,golden shoes woman,49.99,5,249.95000000000002,Hunter,Gordon,Hunter Gordon,hunter.gordon@x.dummyjson.com,Charlotte,34,male,2025-11-20,249.95000000000002
+4,87,456.83,443.23,4,17,40,strawberry,3.99,5,19.950000000000003,Hunter,Gordon,Hunter Gordon,hunter.gordon@x.dummyjson.com,Charlotte,34,male,2025-11-20,19.950000000000003
+4,87,456.83,443.23,4,17,156,green and black glasses,34.99,5,174.95000000000002,Hunter,Gordon,Hunter Gordon,hunter.gordon@x.dummyjson.com,Charlotte,34,male,2025-11-20,174.95000000000002
+4,87,456.83,443.23,4,17,62,ice cube tray,5.99,2,11.98,Hunter,Gordon,Hunter Gordon,hunter.gordon@x.dummyjson.com,Charlotte,34,male,2025-11-20,11.98
+5,134,7431.3,6676.44,6,20,108,iphone 12 silicone case with magsafe plum,29.99,2,59.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,59.98
+5,134,7431.3,6676.44,6,20,138,baseball ball,8.99,5,44.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,44.95
+5,134,7431.3,6676.44,6,20,157,party glasses,19.99,2,39.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,39.98
+5,134,7431.3,6676.44,6,20,8,dior j'adore,89.99,3,269.96999999999997,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,269.96999999999997
+5,134,7431.3,6676.44,6,20,80,huawei matebook x pro,1399.99,5,6999.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,6999.95
+5,134,7431.3,6676.44,6,20,28,ice cream,5.49,3,16.47,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,16.47
+6,150,35199.86,31435.05,4,14,172,blue women's handbag,49.99,5,249.95000000000002,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,249.95000000000002
+6,150,35199.86,31435.05,4,14,112,tv studio camera pedestal,499.99,3,1499.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,1499.97
+6,150,35199.86,31435.05,4,14,97,rolex datejust,10999.99,3,32999.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,32999.97
+6,150,35199.86,31435.05,4,14,128,realme c35,149.99,3,449.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,449.97
+7,86,145651.89,128504.41,3,11,167,300 touring,28999.99,5,144999.95,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-17,144999.95
+7,86,145651.89,128504.41,3,11,111,selfie stick monopod,12.99,4,51.96,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-17,51.96
+7,86,145651.89,128504.41,3,11,129,realme x,299.99,2,599.98,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-17,599.98
+8,23,15685.86,12666.75,4,14,117,sportbike motorcycle,7499.99,2,14999.98,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-16,14999.98
+8,23,15685.86,12666.75,4,14,18,cat food,8.99,4,35.96,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-16,35.96
+8,23,15685.86,12666.75,4,14,105,apple magsafe battery pack,99.99,5,499.95,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-16,499.95
+8,23,15685.86,12666.75,4,14,6,calvin klein ck one,49.99,3,149.97,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-16,149.97
+9,194,65529.87,63336.57,4,13,178,corset leather with skirt,89.99,2,179.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-15,179.98
+9,194,65529.87,63336.57,4,13,191,rolex cellini moonphase,15999.99,4,63999.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-15,63999.96
+9,194,65529.87,63336.57,4,13,47,table lamp,49.99,2,99.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-15,99.98
+9,194,65529.87,63336.57,4,13,134,vivo s1,249.99,5,1249.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-15,1249.95
+10,160,29499.92,25675.13,2,8,190,iwc ingenieur automatic steel,4999.99,5,24999.949999999997,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,24999.949999999997
+10,160,29499.92,25675.13,2,8,94,longines master collection,1499.99,3,4499.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,4499.97
+11,172,568.36,476.76,6,14,88,nike air jordan 1 red and black,149.99,1,149.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,149.99
+11,172,568.36,476.76,6,14,32,milk,3.49,3,10.47,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,10.47
+11,172,568.36,476.76,6,14,74,spoon,4.99,3,14.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,14.97
+11,172,568.36,476.76,6,14,145,cricket wicket,29.99,3,89.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,89.97
+11,172,568.36,476.76,6,14,26,green chili pepper,0.99,3,2.9699999999999998,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,2.9699999999999998
+11,172,568.36,476.76,6,14,127,oppo k1,299.99,1,299.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,299.99
+12,202,931.91,798.02,2,9,63,kitchen sieve,7.99,4,31.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-12,31.96
+12,202,931.91,798.02,2,9,181,marni red & black suit,179.99,5,899.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-12,899.95
+13,41,793.07,750.8,5,13,85,man plaid shirt,34.99,2,69.98,Evan,Reed,Evan Reed,evan.reed@x.dummyjson.com,San Antonio,33,male,2025-11-11,69.98
+13,41,793.07,750.8,5,13,109,monopod,19.99,3,59.97,Evan,Reed,Evan Reed,evan.reed@x.dummyjson.com,San Antonio,33,male,2025-11-11,59.97
+13,41,793.07,750.8,5,13,160,samsung galaxy tab s8 plus grey,599.99,1,599.99,Evan,Reed,Evan Reed,evan.reed@x.dummyjson.com,San Antonio,33,male,2025-11-11,599.99
+13,41,793.07,750.8,5,13,163,girl summer dress,19.99,3,59.97,Evan,Reed,Evan Reed,evan.reed@x.dummyjson.com,San Antonio,33,male,2025-11-11,59.97
+13,41,793.07,750.8,5,13,31,lemon,0.79,4,3.16,Evan,Reed,Evan Reed,evan.reed@x.dummyjson.com,San Antonio,33,male,2025-11-11,3.16
+14,94,586.82,500.25,6,18,92,sports sneakers off white red,109.99,3,329.96999999999997,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,329.96999999999997
+14,94,586.82,500.25,6,18,54,citrus squeezer yellow,8.99,5,44.95,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,44.95
+14,94,586.82,500.25,6,18,76,wooden rolling pin,11.99,1,11.99,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,11.99
+14,94,586.82,500.25,6,18,44,family tree photo frame,29.99,5,149.95,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,149.95
+14,94,586.82,500.25,6,18,67,mug tree stand,15.99,3,47.97,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,47.97
+14,94,586.82,500.25,6,18,16,apple,1.99,1,1.99,Ruby,Andrews,Ruby Andrews,ruby.andrews@x.dummyjson.com,Dallas,29,female,2025-11-10,1.99
+15,11,11741.31,10940.95,5,19,11,annibale colombo bed,1899.99,5,9499.95,Liam,Garcia,Liam Garcia,liam.garcia@x.dummyjson.com,Denver,30,male,2025-11-09,9499.95
+15,11,11741.31,10940.95,5,19,133,samsung galaxy s10,699.99,3,2099.9700000000003,Liam,Garcia,Liam Garcia,liam.garcia@x.dummyjson.com,Denver,30,male,2025-11-09,2099.9700000000003
+15,11,11741.31,10940.95,5,19,111,selfie stick monopod,12.99,3,38.97,Liam,Garcia,Liam Garcia,liam.garcia@x.dummyjson.com,Denver,30,male,2025-11-09,38.97
+15,11,11741.31,10940.95,5,19,162,blue frock,29.99,3,89.97,Liam,Garcia,Liam Garcia,liam.garcia@x.dummyjson.com,Denver,30,male,2025-11-09,89.97
+15,11,11741.31,10940.95,5,19,30,kiwi,2.49,5,12.450000000000001,Liam,Garcia,Liam Garcia,liam.garcia@x.dummyjson.com,Denver,30,male,2025-11-09,12.450000000000001
+16,200,172.24,155.84,3,6,19,chicken meat,9.99,2,19.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-08,19.98
+16,200,172.24,155.84,3,6,152,tennis racket,49.99,3,149.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-08,149.97
+16,200,172.24,155.84,3,6,35,potatoes,2.29,1,2.29,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-08,2.29
+17,141,192.87,173.9,4,13,1,essence mascara lash princess,9.99,2,19.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-07,19.98
+17,141,192.87,173.9,4,13,60,grater black,10.99,3,32.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-07,32.97
+17,141,192.87,173.9,4,13,74,spoon,4.99,4,19.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-07,19.96
+17,141,192.87,173.9,4,13,44,family tree photo frame,29.99,4,119.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-07,119.96
+18,189,1464.78,1257.94,6,22,127,oppo k1,299.99,4,1199.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,1199.96
+18,189,1464.78,1257.94,6,22,24,fish steak,14.99,3,44.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,44.97
+18,189,1464.78,1257.94,6,22,20,cooking oil,4.99,5,24.950000000000003,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,24.950000000000003
+18,189,1464.78,1257.94,6,22,154,black sun glasses,29.99,3,89.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,89.97
+18,189,1464.78,1257.94,6,22,44,family tree photo frame,29.99,2,59.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,59.98
+18,189,1464.78,1257.94,6,22,5,red nail polish,8.99,5,44.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-06,44.95
+19,59,933.87,794.78,4,13,187,golden shoes woman,49.99,3,149.97,Ethan,Fletcher,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Dallas,34,male,2025-11-05,149.97
+19,59,933.87,794.78,4,13,153,volleyball,11.99,5,59.95,Ethan,Fletcher,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Dallas,34,male,2025-11-05,59.95
+19,59,933.87,794.78,4,13,34,nescafe coffee,7.99,3,23.97,Ethan,Fletcher,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Dallas,34,male,2025-11-05,23.97
+19,59,933.87,794.78,4,13,130,realme xt,349.99,2,699.98,Ethan,Fletcher,Ethan Fletcher,ethan.fletcher@x.dummyjson.com,Dallas,34,male,2025-11-05,699.98
+20,90,3534.78,2936.58,6,22,107,beats flex wireless earphones,49.99,1,49.99,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,49.99
+20,90,3534.78,2936.58,6,22,193,watch gold for women,799.99,3,2399.9700000000003,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,2399.9700000000003
+20,90,3534.78,2936.58,6,22,100,apple airpods,129.99,3,389.97,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,389.97
+20,90,3534.78,2936.58,6,22,90,puma future rider trainers,89.99,5,449.95,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,449.95
+20,90,3534.78,2936.58,6,22,118,attitude super leaves hand soap,8.99,5,44.95,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,44.95
+20,90,3534.78,2936.58,6,22,166,tartan dress,39.99,5,199.95000000000002,Scarlett,Bowman,Scarlett Bowman,scarlett.bowman@x.dummyjson.com,New York,28,female,2025-11-04,199.95000000000002
+21,42,251.96,245.68,2,4,77,yellow peeler,5.99,2,11.98,Avery,Carter,Avery Carter,avery.carter@x.dummyjson.com,San Diego,29,female,2025-11-03,11.98
+21,42,251.96,245.68,2,4,91,sports sneakers off white & red,119.99,2,239.98,Avery,Carter,Avery Carter,avery.carter@x.dummyjson.com,San Diego,29,female,2025-11-03,239.98
+22,140,222.88,205.63,4,12,73,spice rack,19.99,5,99.94999999999999,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-02,99.94999999999999
+22,140,222.88,205.63,4,12,2,eyeshadow palette with mirror,19.99,2,39.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-02,39.98
+22,140,222.88,205.63,4,12,69,plate,3.99,2,7.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-02,7.98
+22,140,222.88,205.63,4,12,155,classic sun glasses,24.99,3,74.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-02,74.97
+23,147,7757.8,7439.98,5,20,82,new dell xps 13 9300 laptop,1499.99,5,7499.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-01,7499.95
+23,147,7757.8,7439.98,5,20,172,blue women's handbag,49.99,4,199.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-01,199.96
+23,147,7757.8,7439.98,5,20,41,tissue paper box,2.49,2,4.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-01,4.98
+23,147,7757.8,7439.98,5,20,37,red onions,1.99,4,7.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-01,7.96
+23,147,7757.8,7439.98,5,20,138,baseball ball,8.99,5,44.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-01,44.95
+24,6,1749.9,1594.33,3,10,108,iphone 12 silicone case with magsafe plum,29.99,5,149.95,Olivia,Wilson,Olivia Wilson,olivia.wilson@x.dummyjson.com,Fort Worth,23,female,2025-10-31,149.95
+24,6,1749.9,1594.33,3,10,134,vivo s1,249.99,4,999.96,Olivia,Wilson,Olivia Wilson,olivia.wilson@x.dummyjson.com,Fort Worth,23,female,2025-10-31,999.96
+24,6,1749.9,1594.33,3,10,174,prada women bag,599.99,1,599.99,Olivia,Wilson,Olivia Wilson,olivia.wilson@x.dummyjson.com,Fort Worth,23,female,2025-10-31,599.99
+25,118,412.98,353.55,2,2,4,red lipstick,12.99,1,12.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-30,12.99
+25,118,412.98,353.55,2,2,126,oppo f19 pro+,399.99,1,399.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-30,399.99
+26,66,459.92,441.17,2,8,37,red onions,1.99,5,9.95,Aria,Ferguson,Aria Ferguson,aria.ferguson@x.dummyjson.com,San Diego,28,female,2025-10-29,9.95
+26,66,459.92,441.17,2,8,128,realme c35,149.99,3,449.97,Aria,Ferguson,Aria Ferguson,aria.ferguson@x.dummyjson.com,San Diego,28,female,2025-10-29,449.97
+27,75,190.89,170.95,4,11,33,mulberry,4.99,1,4.99,Ryan,Graham,Ryan Graham,ryan.graham@x.dummyjson.com,San Antonio,32,male,2025-10-28,4.99
+27,75,190.89,170.95,4,11,110,selfie lamp with iphone,14.99,2,29.98,Ryan,Graham,Ryan Graham,ryan.graham@x.dummyjson.com,San Antonio,32,male,2025-10-28,29.98
+27,75,190.89,170.95,4,11,16,apple,1.99,3,5.97,Ryan,Graham,Ryan Graham,ryan.graham@x.dummyjson.com,San Antonio,32,male,2025-10-28,5.97
+27,75,190.89,170.95,4,11,83,blue & black check shirt,29.99,5,149.95,Ryan,Graham,Ryan Graham,ryan.graham@x.dummyjson.com,San Antonio,32,male,2025-10-28,149.95
+28,147,209.91,186.09,2,9,1,essence mascara lash princess,9.99,5,49.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-27,49.95
+28,147,209.91,186.09,2,9,141,basketball rim,39.99,4,159.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-27,159.96
+29,170,3862.43,3488.44,5,17,80,huawei matebook x pro,1399.99,2,2799.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-26,2799.98
+29,170,3862.43,3488.44,5,17,107,beats flex wireless earphones,49.99,4,199.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-26,199.96
+29,170,3862.43,3488.44,5,17,25,green bell pepper,1.29,2,2.58,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-26,2.58
+29,170,3862.43,3488.44,5,17,121,iphone 5s,199.99,4,799.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-26,799.96
+29,170,3862.43,3488.44,5,17,153,volleyball,11.99,5,59.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-26,59.95
+30,177,128249.07,118740.76,4,13,181,marni red & black suit,179.99,1,179.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-25,179.99
+30,177,128249.07,118740.76,4,13,171,pacifica touring,31999.99,4,127999.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-25,127999.96
+30,177,128249.07,118740.76,4,13,35,potatoes,2.29,4,9.16,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-25,9.16
+30,177,128249.07,118740.76,4,13,46,plant pot,14.99,4,59.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-10-25,59.96
+31,143,4749.87,4454.75,4,13,41,tissue paper box,2.49,4,9.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-23,9.96
+31,143,4749.87,4454.75,4,13,10,gucci bloom eau de,79.99,3,239.96999999999997,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-23,239.96999999999997
+31,143,4749.87,4454.75,4,13,124,iphone x,899.99,3,2699.9700000000003,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-23,2699.9700000000003
+31,143,4749.87,4454.75,4,13,160,samsung galaxy tab s8 plus grey,599.99,3,1799.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-23,1799.97
+32,164,65519.87,58436.16,4,13,134,vivo s1,249.99,2,499.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,499.98
+32,164,65519.87,58436.16,4,13,97,rolex datejust,10999.99,5,54999.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,54999.95
+32,164,65519.87,58436.16,4,13,190,iwc ingenieur automatic steel,4999.99,2,9999.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,9999.98
+32,164,65519.87,58436.16,4,13,20,cooking oil,4.99,4,19.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-22,19.96
+33,181,229.93,210.56,2,7,105,apple magsafe battery pack,99.99,2,199.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,199.98
+33,181,229.93,210.56,2,7,49,black aluminium cup,5.99,5,29.950000000000003,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-21,29.950000000000003
+34,203,830.83,766.56,4,17,89,nike baseball cleats,79.99,5,399.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-20,399.95
+34,203,830.83,766.56,4,17,93,brown leather belt watch,89.99,4,359.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-20,359.96
+34,203,830.83,766.56,4,17,55,egg slicer,6.99,3,20.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-20,20.97
+34,203,830.83,766.56,4,17,57,fine mesh strainer,9.99,5,49.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-20,49.95
+35,153,417.87,373.69,4,13,104,apple iphone charger,19.99,5,99.94999999999999,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,99.94999999999999
+35,153,417.87,373.69,4,13,54,citrus squeezer yellow,8.99,2,17.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,17.98
+35,153,417.87,373.69,4,13,152,tennis racket,49.99,1,49.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,49.99
+35,153,417.87,373.69,4,13,56,electric stove,49.99,5,249.95000000000002,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-19,249.95000000000002
+36,176,1875.89,1728.16,3,11,26,green chili pepper,0.99,1,0.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,0.99
+36,176,1875.89,1728.16,3,11,165,short frock,24.99,5,124.94999999999999,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,124.94999999999999
+36,176,1875.89,1728.16,3,11,106,apple watch series 4 gold,349.99,5,1749.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-18,1749.95
+37,33,160289.86,148416.41,4,14,171,pacifica touring,31999.99,5,159999.95,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-17,159999.95
+37,33,160289.86,148416.41,4,14,71,silver pot with glass cap,39.99,4,159.96,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-17,159.96
+37,33,160289.86,148416.41,4,14,68,pan,24.99,4,99.96,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-17,99.96
+37,33,160289.86,148416.41,4,14,182,green crystal earring,29.99,1,29.99,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-17,29.99
+38,15,3359.79,3262.64,6,21,44,family tree photo frame,29.99,5,149.95,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,149.95
+38,15,3359.79,3262.64,6,21,68,pan,24.99,3,74.97,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,74.97
+38,15,3359.79,3262.64,6,21,149,iron golf,49.99,4,199.96,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,199.96
+38,15,3359.79,3262.64,6,21,139,baseball glove,24.99,3,74.97,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,74.97
+38,15,3359.79,3262.64,6,21,150,metal baseball bat,29.99,2,59.98,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,59.98
+38,15,3359.79,3262.64,6,21,133,samsung galaxy s10,699.99,4,2799.96,William,Gonzalez,William Gonzalez,william.gonzalez@x.dummyjson.com,San Jose,33,male,2025-11-16,2799.96
+39,81,44376.84,39690.05,6,16,179,corset with black skirt,79.99,3,239.96999999999997,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,239.96999999999997
+39,81,44376.84,39690.05,6,16,39,soft drinks,1.99,1,1.99,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,1.99
+39,81,44376.84,39690.05,6,16,143,cricket bat,29.99,1,29.99,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,29.99
+39,81,44376.84,39690.05,6,16,18,cat food,8.99,4,35.96,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,35.96
+39,81,44376.84,39690.05,6,16,158,sunglasses,22.99,3,68.97,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,68.97
+39,81,44376.84,39690.05,6,16,97,rolex datejust,10999.99,4,43999.96,Austin,Hudson,Austin Hudson,austin.hudson@x.dummyjson.com,Los Angeles,30,male,2025-11-15,43999.96
+40,187,98499.82,91112.07,6,18,138,baseball ball,8.99,1,8.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,8.99
+40,187,98499.82,91112.07,6,18,51,boxed blender,39.99,2,79.98,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,79.98
+40,187,98499.82,91112.07,6,18,101,apple airpods max silver,549.99,4,2199.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,2199.96
+40,187,98499.82,91112.07,6,18,153,volleyball,11.99,3,35.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,35.97
+40,187,98499.82,91112.07,6,18,164,gray dress,34.99,5,174.95000000000002,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,174.95000000000002
+40,187,98499.82,91112.07,6,18,171,pacifica touring,31999.99,3,95999.97,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-14,95999.97
+41,184,944.0,879.45,6,20,25,green bell pepper,1.29,4,5.16,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,5.16
+41,184,944.0,879.45,6,20,50,black whisk,9.99,1,9.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,9.99
+41,184,944.0,879.45,6,20,151,tennis ball,6.99,4,27.96,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,27.96
+41,184,944.0,879.45,6,20,42,water,0.99,1,0.99,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,0.99
+41,184,944.0,879.45,6,20,10,gucci bloom eau de,79.99,5,399.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,399.95
+41,184,944.0,879.45,6,20,103,apple homepod mini cosmic grey,99.99,5,499.95,No Data,No Data,No Data,No Data,No Data,No Data,No Data,2025-11-13,499.95
+42,67,12059.93,10063.74,2,7,113,generic motorcycle,3999.99,3,11999.97,Gabriel,Hayes,Gabriel Hayes,gabriel.hayes@x.dummyjson.com,San Jose,35,male,2025-11-12,11999.97
+42,67,12059.93,10063.74,2,7,64,knife,14.99,4,59.96,Gabriel,Hayes,Gabriel Hayes,gabriel.hayes@x.dummyjson.com,San Jose,35,male,2025-11-12,59.96
+43,35,179.96,160.56,2,4,182,green crystal earring,29.99,1,29.99,Jack,Ward,Jack Ward,jack.ward@x.dummyjson.com,Phoenix,30,male,2025-11-11,29.99
+43,35,179.96,160.56,2,4,149,iron golf,49.99,3,149.97,Jack,Ward,Jack Ward,jack.ward@x.dummyjson.com,Phoenix,30,male,2025-11-11,149.97
+44,20,460.87,413.86,4,13,93,brown leather belt watch,89.99,3,269.96999999999997,Jackson,Evans,Jackson Evans,jackson.evans@x.dummyjson.com,New York,35,male,2025-11-10,269.96999999999997
+44,20,460.87,413.86,4,13,4,red lipstick,12.99,2,25.98,Jackson,Evans,Jackson Evans,jackson.evans@x.dummyjson.com,New York,35,male,2025-11-10,25.98
+44,20,460.87,413.86,4,13,140,basketball,14.99,5,74.95,Jackson,Evans,Jackson Evans,jackson.evans@x.dummyjson.com,New York,35,male,2025-11-10,74.95
+44,20,460.87,413.86,4,13,83,blue & black check shirt,29.99,3,89.97,Jackson,Evans,Jackson Evans,jackson.evans@x.dummyjson.com,New York,35,male,2025-11-10,89.97
+45,50,260.89,228.44,3,11,50,black whisk,9.99,2,19.98,Stella,Hughes,Stella Hughes,stella.hughes@x.dummyjson.com,Jacksonville,34,female,2025-11-09,19.98
+45,50,260.89,228.44,3,11,29,juice,3.99,4,15.96,Stella,Hughes,Stella Hughes,stella.hughes@x.dummyjson.com,Jacksonville,34,female,2025-11-09,15.96
+45,50,260.89,228.44,3,11,144,cricket helmet,44.99,5,224.95000000000002,Stella,Hughes,Stella Hughes,stella.hughes@x.dummyjson.com,Jacksonville,34,female,2025-11-09,224.95000000000002
+46,93,3603.97,2984.13,2,3,79,asus zenbook pro dual screen laptop,1799.99,2,3599.98,Julian,Newton,Julian Newton,julian.newton@x.dummyjson.com,Fort Worth,35,male,2025-11-08,3599.98
+46,93,3603.97,2984.13,2,3,69,plate,3.99,1,3.99,Julian,Newton,Julian Newton,julian.newton@x.dummyjson.com,Fort Worth,35,male,2025-11-08,3.99
+47,23,457.86,407.1,5,14,92,sports sneakers off white red,109.99,1,109.99,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-07,109.99
+47,23,457.86,407.1,5,14,93,brown leather belt watch,89.99,3,269.96999999999997,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-07,269.96999999999997
+47,23,457.86,407.1,5,14,38,rice,5.99,4,23.96,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-07,23.96
+47,23,457.86,407.1,5,14,33,mulberry,4.99,3,14.97,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-07,14.97
+47,23,457.86,407.1,5,14,53,chopping board,12.99,3,38.97,Chloe,Morales,Chloe Morales,chloe.morales@x.dummyjson.com,Dallas,40,female,2025-11-07,38.97
+48,33,10007.96,8773.59,2,4,40,strawberry,3.99,2,7.98,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-06,7.98
+48,33,10007.96,8773.59,2,4,190,iwc ingenieur automatic steel,4999.99,2,9999.98,Carter,Baker,Carter Baker,carter.baker@x.dummyjson.com,Denver,32,male,2025-11-06,9999.98
+49,86,7016.77,6157.46,6,23,15,wooden bathroom sink with mirror,799.99,4,3199.96,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,3199.96
+49,86,7016.77,6157.46,6,23,76,wooden rolling pin,11.99,3,35.97,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,35.97
+49,86,7016.77,6157.46,6,23,39,soft drinks,1.99,3,5.97,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,5.97
+49,86,7016.77,6157.46,6,23,158,sunglasses,22.99,5,114.94999999999999,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,114.94999999999999
+49,86,7016.77,6157.46,6,23,110,selfie lamp with iphone,14.99,4,59.96,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,59.96
+49,86,7016.77,6157.46,6,23,124,iphone x,899.99,4,3599.96,Nora,Mills,Nora Mills,nora.mills@x.dummyjson.com,San Jose,27,female,2025-11-05,3599.96
+50,52,36.28,34.97,2,2,25,green bell pepper,1.29,1,1.29,Grace,Perry,Grace Perry,grace.perry@x.dummyjson.com,Seattle,27,female,2025-11-04,1.29
+50,52,36.28,34.97,2,2,85,man plaid shirt,34.99,1,34.99,Grace,Perry,Grace Perry,grace.perry@x.dummyjson.com,Seattle,27,female,2025-11-04,34.99
